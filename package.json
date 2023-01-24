@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "baby-steps.js",
+  "dependencies": {
+    "bl": "^6.0.0",
+    "through2-map": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trinitypranav/NodeSchool-Nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trinitypranav/NodeSchool-Nodejs/issues"
+  },
+  "homepage": "https://github.com/trinitypranav/NodeSchool-Nodejs#readme"
+}
